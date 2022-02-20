@@ -1,0 +1,58 @@
+1. Which of the following methods do we use to find the best fit line for data in Linear Regression?
+A) Least Square Error
+
+2. Which of the following statement is true about outliers in linear regression?
+A) Linear regression is sensitive to outliers 
+
+3. A line falls from left to right if a slope is ______?
+B) Negative
+
+4. Which of the following will have symmetric relation between dependent variable and independent
+variable?
+ Correlation
+
+5. Which of the following is the reason for over fitting condition?
+C) Low bias and high variance
+
+6. If output involves label then that model is called as:
+B) Predictive modal
+
+7. Lasso and Ridge regression techniques belong to _________?
+D) Regularization
+8. To overcome with imbalance dataset which technique can be used?
+D) SMOTE
+
+9. The AUC Receiver Operator Characteristic (AUCROC) curve is an evaluation metric for binary
+classification problems. It uses _____ to make graph?
+C) Sensitivity and Specificity 
+
+10. In AUC Receiver Operator Characteristic (AUCROC) curve for the better model area under the
+curve should be less.
+B) False
+
+11. Pick the feature extraction from below:
+A) Construction bag of words from a email
+B) Apply PCA to project high dimensional data
+C) Removing stop words
+D) Forward selection
+
+All of the above are correct for feature selection.
+
+
+12. Which of the following is true about Normal Equation used to compute the coefficient of the Linear
+Regression?
+A) We don’t have to choose the learning rate.
+B) It becomes slow when number of features is very large.
+C) We need to iterate.
+D) It does not make use of dependent variable.
+all of the above.
+
+13. Explain the term regularization?
+ans:- Regularization is a technique used for avoiding the overfitting of a model.
+
+14. Which particular algorithms are used for regularization?
+Ans:- The algorithms that are used for regularization are Lasso, ridge and dropout regression.
+
+15. Explain the term error present in linear regression equation?
+ans:- Error in linear regression model is the distance of the actual points from the best fit line.
+Lesser the error better the prediction.
